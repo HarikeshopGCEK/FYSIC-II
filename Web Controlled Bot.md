@@ -12,3 +12,16 @@
 
 Use NodeMCU to **host a web page** (or connect to your router), then map **button presses** to **motor commands**.
 
+**[[NodeMCU PinOut L298N Bot block diagram|Basic Flow]]
+
+---
+# Hardware and Software Requirements
+
+- 🧠 **NodeMCU (ESP8266)**
+- ⚙️ **L298N Motor Driver Module**
+- 🔋 **2x Geared DC Motors**
+- 🚗 **Robot Chassis + Wheels**
+- 🔋 **Battery Pack (7.4V Li-ion recommended)**
+- 🧵 Jumper Wires and Breadboard (optional)
+
+---
