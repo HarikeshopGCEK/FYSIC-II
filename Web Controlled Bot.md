@@ -142,3 +142,7 @@ void loop() {
 }
 
 ```
+
+# Hardware Connections
+
+- Lets talk about that I guess
