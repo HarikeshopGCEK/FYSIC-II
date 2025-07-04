@@ -25,14 +25,12 @@
             "id": "45def04182637fe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Web Controlled Bot.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/NodeMCU PinOut L298N Bot block diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "Web Controlled Bot"
+              "icon": "excalidraw-icon",
+              "title": "NodeMCU PinOut L298N Bot block diagram"
             }
           },
           {
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Controlled Bot.md",
+                "file": "Excalidraw/NodeMCU PinOut L298N Bot block diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Web Controlled Bot"
+              "title": "Backlinks for NodeMCU PinOut L298N Bot block diagram"
             }
           },
           {
@@ -140,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Controlled Bot.md",
+                "file": "Excalidraw/NodeMCU PinOut L298N Bot block diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Web Controlled Bot"
+              "title": "Outgoing links from NodeMCU PinOut L298N Bot block diagram"
             }
           },
           {
@@ -169,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Controlled Bot.md",
+                "file": "Excalidraw/NodeMCU PinOut L298N Bot block diagram.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web Controlled Bot"
+              "title": "Outline of NodeMCU PinOut L298N Bot block diagram"
             }
           }
         ]
@@ -198,10 +196,13 @@
   },
   "active": "45def04182637fe2",
   "lastOpenFiles": [
-    "FYSIC - II Morning Section.md",
+    "Pasted Image 20250705000853_336.png",
+    "Pasted Image 20250705000809_974.png",
+    "Excalidraw/NodeMCU PinOut L298N Bot block diagram.md",
+    "Excalidraw/Untitled.md",
     "Web Controlled Bot.md",
+    "FYSIC - II Morning Section.md",
     "Excalidraw/Key Components of A robot.md",
-    "Excalidraw/Drawing 2025-07-04 23.54.32.excalidraw.md",
     "Excalidraw/Key Components of A robot 1.md",
     "Excalidraw"
   ]
