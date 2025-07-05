@@ -52,3 +52,12 @@
 2. **Bread Board and Sensors for testing
 3. **Simple Circuits
 4. **Coding with Simple Logics
+---
+# Setting Up The Arduino IDE
+1. Download the [Arduino IDE](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing)
+2. Open The IDE Wait for a Second
+3. Open Files - Preferences
+4. In Additional Board Manager URL Section paste the URL Below 
+   `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+5. Open Tools - Board Manager - Search For ESP8266
+6. Click Install All Done
