@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b5ef1e920509e5",
+        "id": "70cae1d178d2bb5a",
         "type": "split",
         "children": [
           {
@@ -23,6 +23,18 @@
                   },
                   "icon": "lucide-file",
                   "title": "Line Follower Bot"
+                }
+              },
+              {
+                "id": "e30c6074d890c4c6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-07-05 15.05.39.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-07-05 15.05.39.excalidraw"
                 }
               },
               {
@@ -49,14 +61,15 @@
                   "title": "Plugin no longer active"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "1e663d509e5e9760",
+            "id": "65ed912d77c4a3fd",
             "type": "tabs",
             "children": [
               {
-                "id": "2f2f863295f91cb9",
+                "id": "1db1d0c756f56b90",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -242,8 +255,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2f2f863295f91cb9",
+  "active": "1db1d0c756f56b90",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-05 15.05.39.excalidraw.md",
+    "Pasted Image 20250705151239_672.png",
+    "Pasted Image 20250705151128_687.png",
+    "Pasted Image 20250705150856_709.png",
+    "Pasted Image 20250705150743_420.png",
     "Line Follower Bot.md",
     "FYSIC - II Morning Section.md",
     "Web Controlled Bot.md",
