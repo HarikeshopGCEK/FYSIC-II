@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "FYSIC - II Morning Section.md",
+                    "file": "Line Follower Bot.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "FYSIC - II Morning Section"
+                  "title": "Line Follower Bot"
                 }
               },
               {
@@ -244,12 +244,12 @@
   },
   "active": "2f2f863295f91cb9",
   "lastOpenFiles": [
+    "Line Follower Bot.md",
     "FYSIC - II Morning Section.md",
     "Web Controlled Bot.md",
     "Excalidraw/NodeMCU PinOut L298N Bot block diagram.md",
     "Excalidraw/Key Components of A robot.md",
     "Obstacle Avoider.md",
-    "Line Follower Bot.md",
     "Pasted Image 20250705000853_336.png",
     "Pasted Image 20250705000809_974.png",
     "Excalidraw/Untitled.md",
